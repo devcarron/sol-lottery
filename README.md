@@ -9,6 +9,7 @@ A decentralized and autonomous lottery
 </div>
 
 ---
+---
 
 This project aims to revolutionize the way lotteries are played, offering a more reliable, accessible, and globally scalable alternative.
 
