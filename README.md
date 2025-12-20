@@ -53,7 +53,8 @@ The function sets the value of different fields of the "solotery" account with d
 
 
 ## 🎫Buy a ticket/summary>
-
+```
+```
 ```rust
 pub fn ticket(ctx: Context<Ticket>) -> Result<()> {
     // useful variables
